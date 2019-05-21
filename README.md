@@ -1,2 +1,2 @@
 # EQLocMcGill
-A Simple Earthquake Location Program
+A Concise Earthquake Location Program
